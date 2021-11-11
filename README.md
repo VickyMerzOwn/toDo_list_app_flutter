@@ -2,16 +2,16 @@
 
 A new Flutter project.
 
-## Getting Started
+## Resources referred
 
-This project is a starting point for a Flutter application.
+This project is an attempt to simplify keeping track of goals overcoming the shortcomings of existing to-do apps.
 
-A few resources to get you started if this is your first Flutter project:
+A few resources I referred to, this being my first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+And of-course the documentation :
+[online documentation](https://flutter.dev/docs)
+
 # toDo_list_app_flutter
